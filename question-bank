@@ -1,0 +1,14 @@
+Question bank AWS:
+1. How you will host website on AWS (Step by steps)
+2. what is security groups? is it stateful or stateless?/ Can we add deny rule in security groups? 
+3. How do you do auto scaling?
+4. How you can recover the ec2 instace SSH access after lossing key?
+5. What is diffrence between reboot and stop in EC2, what you will do if any hardware error while booting the EC2 reboot or stop and start?
+6. What is VPC and how many subnets you can create under one VPC? Can we remove the default route table?
+7. What is EBS? How we can increase the EBS volume, and how you will able to decrese it? can you decrease it?
+8. Diffrence between horizontal and verticle scaling.
+9. Diffrence between ACL and Security group:
+>> Sec grp works on instace level and ACL works on Subnet
+   Allow rule only  allow and deny 
+10. How we can mount s3 on ec2 instance?
+11. Diffrence between region and AZ.
