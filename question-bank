@@ -10,6 +10,7 @@ Question bank AWS:
 9. Diffrence between ACL and Security group:
 >> Sec grp works on instace level and ACL works on Subnet
    Allow rule only  allow and deny 
+Can you change the privet IP of EC2 incetance? 
 10. How we can mount s3 on ec2 instance?
 11. Diffrence between region and AZ.
 Compare AWS with OpenStack
