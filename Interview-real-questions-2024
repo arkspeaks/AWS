@@ -1,0 +1,53 @@
+Interview questions (AWS)- Cognizant
+
+1. If you someone change Security group on ec2 instance and your application went down, now you want to avoid the situation in future, how you will set up the automation in which if anyone change the security group you will be notify over email?
+2. What is your expertise in AWS Lamda?
+3. What are layers in AWS lamda?
+4. What is API Gateway, do you know how authorization works at API level?
+5. What is Max timeout for lamda functions?
+6. What is function is reaching 15 min, how you will resolve?
+
+Interview-2 (AWS)- Capgemini
+
+1. Which services you are using on AWS?
+2. How to set up two or three tier application on AWS?
+3. How you will secure your VPC?
+4. Tell me difference between Security group and NACL?
+5.  How many policies in Route53?
+6. What are all types on ELB and explain the difference?
+7.  What is best use case of NLB?
+8.  In AWS auto scaling, does step function allow parallel scaling? 
+9. Host base routing and path base routing in ALB
+
+Docker:
+10. What is difference or advantages on docker (Containers) and VM?
+11. What are the features of Linux useful or make suitable to host containerized applications? 
+
+Interview: 3 (DevOps)
+
+1. Roles and responsibilities on your current project.
+2.How many years of Jenkins and name some plugins useful in Jenkins
+3. 1st pipeline success full 2nd got failed how you will fix or verify in jenkins
+4. Difference between Maven and jenkins
+5. Diffrence between Github and Git
+6. Command for cloning directory in Git.
+7. How containers communicate in kubenates? --> Container can’t communicate pod do.
+8. Main components in Kubernates architecture 
+9. What is Namespace in Kubernetes? 	
+
+
+Interview: 4
+
+1. Do you know what is SRE?
+2. Whats the difference between DevOps and SRE?	
+3. Explain networking process for a application how it works? --> Interviewer expected to explain    network flow if we hosted application on ec2 instance.
+4. What Kind of records you can create in above example? What is A record.
+5. If we reboot the server IP will get change how it will work then? If we do not assign elastic IP then how it will work also with ELB how it will work?
+6. You have experience with ansible?
+7. What kind of scripts you created with bash? Any one challenge you experience which you automated.
+8. Any experience with Monitoring tools?
+9. What are the difference you notice in nagios and AWS monitoring.
+10. Any dashboards have you created for monitoring?
+11. Did you worked on any cost optimizations?
+12. Linux networking command we use?
+13. What challenging task you performs recently.
